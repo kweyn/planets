@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Technically not actually a planet.
+=======
+Technically not actually a planet, it's a Dwarf planet.
+>>>>>>> 421b29c5f3513b42c5e064c6b05986661d29a8f5
